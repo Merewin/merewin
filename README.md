@@ -1,4 +1,10 @@
 ## Hi there 👋
+# My name is Meredith Erwin 
+
+## Core Values
+Kindness ⭐ Inclusivity ⭐ Humor 
+
+https://www.linkedin.com/in/meredith-erwin-98117321/
 
 <!--
 **Merewin/merewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
